@@ -1,4 +1,4 @@
-# Multiplying-two-matrix
+# MULTIPLYING-TWO-MATRIX
 
 ## AIM:
 To write a python program to multiply two arrays using numpy.
